@@ -14,7 +14,7 @@ SwitchHosts is an App for managing hosts file, it is based on [Electron](http://
 
 ## Features
 
-- Switch hosts quickly
+- Switch hosts quickly范德萨发生
 - Syntax highlight
 - Remote hosts
 - Switch from system tray
